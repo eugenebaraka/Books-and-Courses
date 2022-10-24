@@ -1,0 +1,65 @@
+---
+title: "Intro to bayes"
+author: "Eugene Baraka"
+date: "2022-10-21"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+```
+
+## Use non-informative prior
+```{r}
+theta_seq = seq(0, 1, 0.001) # risks of adverse event
+y = 200 # number of cases
+n = 1000 # sample size
+
+# form a dataframe with a sequence of risks of adverse events, uninformative prior distribution, and the corresponding posterior distribution following a beta distribution given the observed data
+df = data.frame(theta = theta_seq, 
+                post = dbeta(theta_seq, 1 + y, 1 + n - y), 
+                prior = dbeta(theta_seq, 1, 1))
+
+# visualize the relationship between the parameter of interest and both distributions
+ggplot(df, aes(x = theta, y = post)) + 
+  geom_line() + 
+  geom_line(aes(y = prior), linetype = 2) + 
+  geom_vline(xintercept = y/n, linetype = 3)
+
+```
+
+```{r}
+# point estimates and 95% credible intervals
+round((y+1)/(n+2), 2) # posterior mean
+y/n # posterial mode (MAP)
+round(qbeta(1+y, 1+n-y, p = c(0.025, 0.5, 0.975)), 2) # quintiles of the posterior
+```
+
+
+## Use informative prior
+Now let's focus on the n = 100 and y = 20 as the data for the "present" study. Suppose that a previous smaller study was performed on the same treatment where 75 patients where followed up and among those 21 experienced the adverse event. From this study we get a prior distribution of **beta(21+1, 54+1)**
+
+```{r}
+y1 = 21
+n1 = 75
+y = 20
+n = 100
+theta_seq2 = seq(0, 1, 0.01)
+
+df2 <- data.frame(theta = theta_seq2, prior = dbeta(theta_seq2, 21, 55), 
+                  post = dbeta(theta_seq2, y1+20, y1+100-20))
+
+ggplot(df2, aes(x = theta, y = post)) + 
+  geom_line() + 
+  geom_line(aes(y = prior), linetype = 2) + 
+  geom_vline(xintercept = y/n, linetype = 3)
+
+```
+```{r}
+y1 = 21
+n1 = 75
+round((y1 + 1)/(n1 + 2), 2) # posterior mean
+y1/n1 # MAP
+round(qbeta(y1 + 1, n1 - y1 + 1, p = c(0.025, 0.5, 0.975)), 2) # 2.5%, 50% and 97.5% quantiles of the posterior
+```
+
