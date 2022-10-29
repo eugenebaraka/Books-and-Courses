@@ -13,8 +13,8 @@
 ## Courses
 
 
-|Course                                                                                                                                                                         |Topic                         |Timeline      | Compeletion status|
-|------------------------------------------------------------------------------------------------------------------------------------------------------ |----------------------------|----------------|
+|Course                                                                                                                                                                         |Topic                         |Timeline      | Completion status|
+|------------------------------------------------------------------------------------------------------------------------------------------------------ |----------------------------|----------------|-------------------------|
 [DSA](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)                                         | Computer Science    | 		|
 [Calc I](https://www.edx.org/course/calculus-1a-differentiation)                                                                                   |Math                          |			|
 [Calc II](https://www.edx.org/course/calculus-1b-integration)                                                                                       |Math               	       |			|
@@ -29,5 +29,5 @@
 [MLOps](https://www.coursera.org/specializations/natural-language-processing)                                                       |MLOps                        |		|
 FIND Good Databases Resources                                                                                                                               |                                    |		|
 [MongoDB Learning Path](https://university.mongodb.com/learning_paths/developer)                                               |DBs                             |		|
-[Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets)                                                     | Data Mining                |			|
+[Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets)                                                     | Data Mining                |		|
 [Process Mining](https://www.coursera.org/learn/process-mining#syllabus)             						     |Data Mining                 |		|
