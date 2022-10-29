@@ -13,21 +13,21 @@
 ## Courses
 
 
-|Course                                                                               |Topic             |Completion status|
-|-------------------------------------------------------------------------------------|----------------|----------------|
-[DSA](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) | Computer Science | 
-[Calc I](https://www.edx.org/course/calculus-1a-differentiation)                      |Math               |
-[Calc II](https://www.edx.org/course/calculus-1b-integration)                         |Math               |
-[Calc III](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) |Math               |
-[Linear Algebra I](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)|Math        |
-[Linear Algebra II](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series)|Math       |
-[Multivariable Calc](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)|Math          |
-[ML Specialization](https://www.coursera.org/specializations/machine-learning-introduction)|ML          |
-[Intro to ML](https://www.udacity.com/course/intro-to-machine-learning--ud120)         |ML                |
-[DL Specialization](https://www.coursera.org/specializations/deep-learning)           |DL               |
-[NLP Specialization](https://www.coursera.org/specializations/natural-language-processing)|NLP          |
-[MLOPs](https://www.coursera.org/specializations/natural-language-processing)          |                |
-FIND Good Databases Resources                                                           |               |
-[MongoDB Learning Path](https://university.mongodb.com/learning_paths/developer)        |DBs             |
-[Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets)           | Data Mining     |
-[Process Mining](https://www.coursera.org/learn/process-mining#syllabus)                |Data Mining      |
+|Course                                                                                                                                                                         |Topic                         |Completion status|
+|------------------------------------------------------------------------------------------------------------------------------------------------------ |----------------------------|----------------|
+[DSA](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)                                         | Computer Science    | 
+[Calc I](https://www.edx.org/course/calculus-1a-differentiation)                                                                                   |Math                          |
+[Calc II](https://www.edx.org/course/calculus-1b-integration)                                                                                       |Math               	       |
+[Calc III](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series)                                                 |Math                          |
+[Linear Algebra I](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)                 |Math                          |
+[Linear Algebra II](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series)                                  |Math                           |
+[Multivariable Calc](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)                                        |Math                           |
+[ML Specialization](https://www.coursera.org/specializations/machine-learning-introduction)                                     |ML           		        |
+[Intro to ML](https://www.udacity.com/course/intro-to-machine-learning--ud120)                                                         |ML                              |
+[DL Specialization](https://www.coursera.org/specializations/deep-learning)                                                               |DL                              |
+[NLP Specialization](https://www.coursera.org/specializations/natural-language-processing)                                     |NLP                            |
+[MLOps](https://www.coursera.org/specializations/natural-language-processing)                                                       |MLOps                        |
+FIND Good Databases Resources                                                                                                                               |                                    |
+[MongoDB Learning Path](https://university.mongodb.com/learning_paths/developer)                                               |DBs                             |
+[Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets)                                                     | Data Mining                |
+[Process Mining](https://www.coursera.org/learn/process-mining#syllabus)             						     |Data Mining                 |
