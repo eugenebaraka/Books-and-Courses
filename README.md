@@ -8,6 +8,7 @@
 |-----------|----------------|------|-------|
 [Learn Python 3 The Hard Way](https://github.com/ev1lm0rty/Learn_Python3/blob/master/learn-python-3-hard-way.pdf) | Zed Shaw| Python | In progress
 [An Introduction to Bayesian Thinking](https://statswithr.github.io/book/) | Clyde et al | Statistics| 
+[Data Pipelines Pocket Reference](https://www.oreilly.com/library/view/data-pipelines-pocket/9781492087823/)| James Densmore| Databases | 
 
 
 ## Courses
