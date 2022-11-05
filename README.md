@@ -7,8 +7,8 @@
 |Book       |Author          |Topic | Completion status|
 |-----------|----------------|------|-------|
 [Learn Python 3 The Hard Way](https://github.com/ev1lm0rty/Learn_Python3/blob/master/learn-python-3-hard-way.pdf) | Zed Shaw| Python | In progress
-[An Introduction to Bayesian Thinking](https://statswithr.github.io/book/) | Clyde et al | Statistics| 
-[Data Pipelines Pocket Reference](https://www.oreilly.com/library/view/data-pipelines-pocket/9781492087823/)| James Densmore| Databases | 
+[An Introduction to Bayesian Thinking](https://statswithr.github.io/book/) | Clyde et al | Statistics|
+[Data Pipelines Pocket Reference](https://www.oreilly.com/library/view/data-pipelines-pocket/9781492087823/)| James Densmore| Databases |
 
 
 ## Courses
@@ -36,6 +36,7 @@
 [MLOps](https://www.coursera.org/specializations/natural-language-processing)                                                       |MLOps                        |		|
 [Foundation Models](https://www.youtube.com/playlist?list=PL9t0xVFP90GD8hox0KipBkJcLX_C3ja67)		     |ML				|		|
 [Deep Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD)			     | DL				|		|
+[Practical Deep Learning for Coders](https://course.fast.ai/)                                      | DL       |   |
 [Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)		     |DL				|		|
 [Hugging Face Course](https://www.youtube.com/playlist?list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o)	     |					|		|
 [NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)    |DL/NLP			|		|
@@ -45,4 +46,3 @@ FIND Good Database Resources                                                    
 [MongoDB Learning Path](https://university.mongodb.com/learning_paths/developer)                                               |DBs                             |		|
 [Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets)                                                     | Data Mining                |		|
 [Process Mining](https://www.coursera.org/learn/process-mining#syllabus)             						     |Data Mining                 |		|
-
