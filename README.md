@@ -17,6 +17,7 @@
 |Course                                                                                                                                                                         |Topic                         |Timeline      | Completion status|
 |------------------------------------------------------------------------------------------------------------------------------------------------------ |----------------------------|----------------|-------------------------|
 [DSA](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)                                         | Computer Science    | 31/10/22 - 16/11/22	|
+[DSA - freeCodeCamp](https://www.youtube.com/watch?v=8hly31xKli0)                                         | Computer Science  | 	                  |
 [ML Specialization](https://www.coursera.org/specializations/machine-learning-introduction)                                     |ML           		        |		|
 [Intro to ML](https://www.udacity.com/course/intro-to-machine-learning--ud120)                                                         |ML                              |		|
 [Applied Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses#stanford-cs229-machine-learning)      |ML				|		|			
