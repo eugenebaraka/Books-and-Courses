@@ -10,6 +10,7 @@
 [An Introduction to Bayesian Thinking](https://statswithr.github.io/book/) | Clyde et al | Statistics|
 [Data Pipelines Pocket Reference](https://www.oreilly.com/library/view/data-pipelines-pocket/9781492087823/)| James Densmore| Databases |
 [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)| Chip Huyen| MLOps |
+[Applied Time Series Analysis](./_resources/time_series.pdf)| Marcel Dettling| Time series |
 
 
 ## Courses
@@ -42,7 +43,7 @@ FIND Good Database Resources                                                    
 [MongoDB Learning Path](https://university.mongodb.com/learning_paths/developer)                                               |DBs                             |		|
 [Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets)                                                     | Data Mining                |		|
 [Process Mining](https://www.coursera.org/learn/process-mining#syllabus)             						     |Data Mining                 |		|
-
+[Time Series Forecasting](https://www.tensorflow.org/tutorials/structured_data/time_series#performance_3)             						     |ML - Time series                |		|
 
 
 
