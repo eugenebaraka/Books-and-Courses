@@ -6,7 +6,7 @@
 
 |Book       |Author          |Topic | Completion status|
 |-----------|----------------|------|-------|
-[Learn Python 3 The Hard Way](https://github.com/ev1lm0rty/Learn_Python3/blob/master/learn-python-3-hard-way.pdf) | Zed Shaw| Python | In progress
+[Learn Python 3 The Hard Way](https://github.com/ev1lm0rty/Learn_Python3/blob/master/learn-python-3-hard-way.pdf) | Zed Shaw| Python |
 [An Introduction to Bayesian Thinking](https://statswithr.github.io/book/) | Clyde et al | Statistics|
 [Data Pipelines Pocket Reference](https://www.oreilly.com/library/view/data-pipelines-pocket/9781492087823/)| James Densmore| Databases |
 [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)| Chip Huyen| MLOps |
@@ -18,7 +18,7 @@
 
 |Course                                                                                                                                                                         |Topic                         |Timeline      | Completion status|
 |------------------------------------------------------------------------------------------------------------------------------------------------------ |----------------------------|----------------|-------------------------|
-[DSA](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)                                         | Computer Science    | 31/10/22 - 16/11/22	|
+[DSA](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)                                         | Computer Science    | 	|
 [DSA - freeCodeCamp](https://www.youtube.com/watch?v=8hly31xKli0)                                         | Computer Science  | 	                  |
 [ML Specialization](https://www.coursera.org/specializations/machine-learning-introduction)                                     |ML           		        |		|
 [Intro to ML](https://www.udacity.com/course/intro-to-machine-learning--ud120)                                                         |ML                              |		|
