@@ -11,7 +11,7 @@
 [Data Pipelines Pocket Reference](https://www.oreilly.com/library/view/data-pipelines-pocket/9781492087823/)| James Densmore| Databases |
 [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)| Chip Huyen| MLOps |
 [Applied Time Series Analysis](./_resources/time_series.pdf)| Marcel Dettling| Time series |
-
+[Speech and Language Processing](./_resources/ed3book.pdf)| Jurafsky and Martin| NLP |
 
 ## Courses
 
