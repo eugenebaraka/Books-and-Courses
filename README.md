@@ -13,7 +13,7 @@
 [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)| Chip Huyen| MLOps |
 [Applied Time Series Analysis](./_resources/time_series.pdf)| Marcel Dettling| Time series |
 [Speech and Language Processing](./_resources/ed3book.pdf)| Jurafsky and Martin| NLP |
-[Webscraping with Python](./_resources/Web Scraping with Python, 2nd Edition.pdf)             						     |                |		|
+[Webscraping with Python](./_resources/Web%20Scraping%20with%20Python%2C%202nd%20Edition.pdf)             						     |                |		|
 
 
 ## Courses
