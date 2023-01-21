@@ -13,6 +13,8 @@
 [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)| Chip Huyen| MLOps |
 [Applied Time Series Analysis](./_resources/time_series.pdf)| Marcel Dettling| Time series |
 [Speech and Language Processing](./_resources/ed3book.pdf)| Jurafsky and Martin| NLP |
+[Webscraping with Python](./_resources/Web Scraping with Python, 2nd Edition.pdf)             						     |                |		|
+
 
 ## Courses
 
@@ -45,7 +47,6 @@ FIND Good Database Resources                                                    
 [Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets)                                                     | Data Mining                |		|
 [Process Mining](https://www.coursera.org/learn/process-mining#syllabus)             						     |Data Mining                 |		|
 [Time Series Forecasting](https://www.tensorflow.org/tutorials/structured_data/time_series#performance_3)             						     |ML - Time series                |		|
-
 
 
 
