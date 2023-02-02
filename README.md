@@ -23,7 +23,7 @@
 |------------------------------------------------------------------------------------------------------------------------------------------------------ |----------------------------|----------------|-------------------------|
 [DSA](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)                                         | Computer Science    | 	|
 [DSA - freeCodeCamp](https://www.youtube.com/watch?v=8hly31xKli0)                                         | Computer Science  | 	                  |
-[ML Specialization](https://www.coursera.org/specializations/machine-learning-introduction)                                     |ML           		        |	Jan 2 - Jan 25	|
+[ML Specialization](https://www.coursera.org/specializations/machine-learning-introduction)                                     |ML           		        |		|
 [Intro to ML](https://www.udacity.com/course/intro-to-machine-learning--ud120)                                                         |ML                              |		|
 [Applied Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses#stanford-cs229-machine-learning)      |ML				|		|			
 [ML Lecture](https://www.youtube.com/playlist?list=PLzrCXlf6ypbxS5OYOY3EN_0u2fDuIT6Gt)				     |ML (dives into maths) |		|
