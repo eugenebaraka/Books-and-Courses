@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # Others
-.DS_Store
-.webscrapping/
+*.DS_Store
+*.webscrapping/
