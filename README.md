@@ -10,6 +10,7 @@
 [A Byte of Python](https://python.swaroopch.com) | | Python |
 [An Introduction to Bayesian Thinking](https://statswithr.github.io/book/) | Clyde et al | Statistics|
 [Bayesian Statistical Methods](./_resources/BayesianStatisticalMethods,%20Riech.pdf) | Riech and Ghosh | Statistics |
+[Markov-Chain Monte-Carlo](./_resources/MCMC.pdf) | Gamerman and Lopes | Statistics |
 [Data Pipelines Pocket Reference](https://www.oreilly.com/library/view/data-pipelines-pocket/9781492087823/)| James Densmore| Databases |
 [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)| Chip Huyen| MLOps |
 [Applied Time Series Analysis](./_resources/time_series.pdf)| Marcel Dettling| Time series |
