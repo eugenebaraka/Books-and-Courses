@@ -2,8 +2,6 @@
 
 ## Books
 
-
-
 |Book       |Author          |Topic | Completion status|
 |-----------|----------------|------|-------|
 [Learn Python 3 The Hard Way](https://github.com/ev1lm0rty/Learn_Python3/blob/master/learn-python-3-hard-way.pdf) | Zed Shaw| Python |
@@ -17,9 +15,7 @@
 [Speech and Language Processing](./_resources/ed3book.pdf)| Jurafsky and Martin| NLP |
 [Webscraping with Python](./_resources/Web%20Scraping%20with%20Python%2C%202nd%20Edition.pdf)             						     |                |		|
 
-
 ## Courses
-
 
 |Course                                                                                                                                                                         |Topic                         |Timeline      | Completion status|
 |------------------------------------------------------------------------------------------------------------------------------------------------------ |----------------------------|----------------|-------------------------|
@@ -49,9 +45,6 @@ FIND Good Database Resources                                                    
 [Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets)                                                     | Data Mining                |		|
 [Process Mining](https://www.coursera.org/learn/process-mining#syllabus)             						     |Data Mining                 |		|
 [Time Series Forecasting](https://www.tensorflow.org/tutorials/structured_data/time_series#performance_3)             						     |ML - Time series                |		|
-
-
-
 
 Math
 
