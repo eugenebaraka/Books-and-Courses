@@ -17,6 +17,10 @@ For example for writing `counter = counter + 1`, we can summarize it as somethin
 
 
 
+Lecture 2
+
+
+
 
 
 
