@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://codespaces+eugenebaraka-fictional-invention-gvxjq56jg7x39jpr/workspaces/97700750"
+		},
+		{
+			"uri": "vscode-remote://codespaces+eugenebaraka-fictional-invention-gvxjq56jg7x39jpr/workspaces"
+		}
+	],
+	"remoteAuthority": "codespaces+eugenebaraka-fictional-invention-gvxjq56jg7x39jpr",
+	"settings": {
+		"gitdoc.enabled": true
+	}
+}
