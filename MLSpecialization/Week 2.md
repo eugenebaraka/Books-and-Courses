@@ -39,4 +39,51 @@ w_j = w - \alpha * w - \alpha * \frac{1}{m} \sum_{i=1}^{m} (\hat{y}^{(i)} - y^{(
 \\b = b - \alpha * \frac{\partial J(w,b)}{\partial b}
 $$
 
-Like before, this algorithm is updates the parameter simultaneously after taking into account the learning rate until convergence
+Like before, in this algorithm the parameters, w and b are  repeatedly and simultaneously updated after taking into account the learning rate until convergence (i.e. until we reach the global minima --> the function that fits the data best). 
+
+There is an alternative way to minimize the cost function: ***Normal equation***. Use it to solve for w, b without iterations. However, this is only used for linear regression and it is slow for a large n. Some libraries use this in the back end to implement the linear regression
+
+## Feature scaling
+
+This method will help the gradient descent to run faster. The continuous variables in the dataset have different scales (for example, house size in sq. feet vs number of bedrooms). 
+
+When a possible range of values is large (eg. 20-2000), a good model will choose a relatively small of the parameter, and vice-versa. For the example of house size in square feet, a very small change in the parameter will change the outcome value (e.g. price), therefore a huge change in the the cost function. 
+
+- Therefore, using the dataset with varying ranges of values will lead to tall and skinny contours, gradient descent will end up bouncing back and forth before it reaches the global minimum. Scaling the data on the same scale so they take up a comparable range of values will solve this issue. 
+
+![](./assets/scaling.png)
+
+- Methods to scale
+
+  - Divide by the maximum the feature to scale between 0 and 1
+
+  - Mean normalization: 
+    $$
+    \frac{x_1 - \mu_1}{max - min} \\
+    \text{where $\mu_1$ is the mean of the feature and $x_1$ is the value we want to scale}
+    $$
+
+  - Z-score normalization
+    $$
+    \frac{x_1 - \mu}{\sigma} \\
+    \text{where $\mu$ and $\sigma$ are the mean and standard deviation, respectively}
+    $$
+
+- As a rule of thumb, scale the values that have the range that are reallly small and really large. When in doubt, scale. There is no harm in doing so.
+
+## Is gradient descent converging?
+
+Reminder: gradient descent's purpose is to find the parameters, w and b, that minimize the cost function. 
+
+- Plot the cost function vs number of iterations of the gradient descent. This is called a **learning curve**. 
+  - If the gradient descent is working properly, the cost function should decrease after every iteration. 
+  - If it is increasing at any iteration, it may be a poor choice of a learning rate. 
+  - The iterations needed to converge depend on a particular problem and model. 
+- Automatic convergence test
+  - Define a small number such as 0.001. If the cost decreases less than the small number specified, you can declare converge (i.e., found parameters to get close to global minimum). 
+  - This may be unreliable sometimes because you have to depend on your own defined number for the test
+
+## Let's choose an appropriate learning rate
+
+If it is too small, the gradient descent will be slow; if it is too large, the algorithm may never converge (because it will overshooting the global minima often). 
+
