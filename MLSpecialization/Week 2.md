@@ -85,5 +85,24 @@ Reminder: gradient descent's purpose is to find the parameters, w and b, that mi
 
 ## Let's choose an appropriate learning rate
 
-If it is too small, the gradient descent will be slow; if it is too large, the algorithm may never converge (because it will overshooting the global minima often). 
+If it is too small, the gradient descent will be slow; if it is too large, the algorithm may never converge (because it will overshooting the global minima often).
 
+![](./assets/learning_rate.png) 
+
+Choose different values of `alpha` such as **0.001, 0.003, 0.01, 0.03, 0.3, 1**. Try until we find a value too small and too large so we can find the just right learning rate. 
+
+## Feature engineering
+
+How do we choose the most appropriate feature for our learning algorithm? This is a process of using intuition and knowledge to design new features by transforming or combing the existing features. This might help you to get a much better predictive model. 
+
+This might help us to fit non-linear curves to the data using polynomial regression
+
+	### Polynomial regression
+
+Not all problems with a continuous outcome can be modelled using a linear curve. This is where polynomial regression comes in. For example a cubic polynomial regression can be something like
+$$
+f_{w,b} (x) = w_1x + w_2x^2 + w_3x^3 + b
+$$
+*when we do this, feature scaling becomes increasingly important because we have very different ranges of values.* 
+
+How do we decide which features to use? This will be discussed in course 2. 
