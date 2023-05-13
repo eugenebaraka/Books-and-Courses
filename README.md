@@ -20,8 +20,8 @@
 |Course                                                                                                                                                                         |Topic                         | Completion status|
 |------------------------------------------------------------------------------------------------------------------------------------------------------ |----------------------------|-------------------------|
 |[100 Days of Python](https://www.udemy.com/course/100-days-of-code/) |Python | |
-|[DSA](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)                                         | Computer Science    ||
-|[DSA - freeCodeCamp](https://www.youtube.com/watch?v=8hly31xKli0)                                         | Computer Science  ||
+|[DSA](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)                                         | CS   ||
+|[DSA - freeCodeCamp](https://www.youtube.com/watch?v=8hly31xKli0)                                         | CS  ||
 |[ML Specialization](https://www.coursera.org/specializations/machine-learning-introduction)                                     |ML           		        ||
 |[Intro to ML](https://www.udacity.com/course/intro-to-machine-learning--ud120)                                                         |ML                              ||
 |[Applied Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses#stanford-cs229-machine-learning)      |ML				||
@@ -46,6 +46,7 @@
 |[Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets)                                                     | Data Mining                ||
 |[Process Mining](https://www.coursera.org/learn/process-mining#syllabus)             						     |Data Mining                 ||
 |[Time Series Forecasting](https://www.tensorflow.org/tutorials/structured_data/time_series#performance_3)             						     |ML - Time series                ||
+|[Web Dev](https://www.udemy.com/course/the-complete-web-development-bootcamp/) |CS ||
 
 
 
