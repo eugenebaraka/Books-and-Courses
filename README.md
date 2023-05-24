@@ -4,16 +4,19 @@
 
 |Book       |Author          |Topic | Completion status|
 |-----------|----------------|------|-------|
-[Learn Python 3 The Hard Way](https://github.com/ev1lm0rty/Learn_Python3/blob/master/learn-python-3-hard-way.pdf) | Zed Shaw| Python |
-[A Byte of Python](https://python.swaroopch.com) | | Python |
-[An Introduction to Bayesian Thinking](https://statswithr.github.io/book/) | Clyde et al | Statistics|
-[Bayesian Statistical Methods](./_resources/BayesianStatisticalMethods,%20Riech.pdf) | Riech and Ghosh | Statistics |
-[Markov-Chain Monte-Carlo](./_resources/MCMC.pdf) | Gamerman and Lopes | Statistics |
-[Data Pipelines Pocket Reference](https://www.oreilly.com/library/view/data-pipelines-pocket/9781492087823/)| James Densmore| Databases |
-[Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)| Chip Huyen| MLOps |
-[Applied Time Series Analysis](./_resources/time_series.pdf)| Marcel Dettling| Time series |
-[Speech and Language Processing](./_resources/ed3book.pdf)| Jurafsky and Martin| NLP |
-[Webscraping with Python](./_resources/Web%20Scraping%20with%20Python%2C%202nd%20Edition.pdf)             						     |                |		|
+|[Learn Python 3 The Hard Way](https://github.com/ev1lm0rty/Learn_Python3/blob/master/learn-python-3-hard-way.pdf) | Zed Shaw| Python ||
+|[A Byte of Python](https://python.swaroopch.com) | | Python ||
+|[An Introduction to Bayesian Thinking](https://statswithr.github.io/book/) | Clyde et al | Statistics||
+|[Bayesian Statistical Methods](./_resources/BayesianStatisticalMethods,%20Riech.pdf) | Riech and Ghosh | Statistics ||
+|[Markov-Chain Monte-Carlo](./_resources/MCMC.pdf) | Gamerman and Lopes | Statistics ||
+|[Data Pipelines Pocket Reference](https://www.oreilly.com/library/view/data-pipelines-pocket/9781492087823/)| James Densmore| Databases ||
+|[Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)| Chip Huyen| MLOps ||
+|[Applied Time Series Analysis](./_resources/time_series.pdf)| Marcel Dettling| Time series ||
+|[Speech and Language Processing](./_resources/ed3book.pdf)| Jurafsky and Martin| NLP ||
+|[Webscraping with Python](./_resources/Web%20Scraping%20with%20Python%2C%202nd%20Edition.pdf)             						     |                |		||
+|[Advanced R](https://adv-r.hadley.nz/index.html) | | R ||
+
+
 
 ## Courses
 
