@@ -20,12 +20,12 @@
 
 ## Courses
 
-|Course                                                                                                                                                                         |Topic                         | Completion status|
+|Course                                                                                                                                                                         |Topic                         | Notes and resources |
 |------------------------------------------------------------------------------------------------------------------------------------------------------ |----------------------------|-------------------------|
 |[100 Days of Python](https://www.udemy.com/course/100-days-of-code/) |Python | |
 |[DSA](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)                                         | CS   ||
 |[DSA - freeCodeCamp](https://www.youtube.com/watch?v=8hly31xKli0)                                         | CS  ||
-|[ML Specialization](https://www.coursera.org/specializations/machine-learning-introduction)                                     |ML           		        ||
+|[ML Specialization](https://www.coursera.org/specializations/machine-learning-introduction)                                     |ML           		        |[notes](./MLSpecialization)|
 |[Intro to ML](https://www.udacity.com/course/intro-to-machine-learning--ud120)                                                         |ML                              ||
 |[Applied Machine Learning](https://github.com/dair-ai/ML-YouTube-Courses#stanford-cs229-machine-learning)      |ML				||
 |[ML Lecture](https://www.youtube.com/playlist?list=PLzrCXlf6ypbxS5OYOY3EN_0u2fDuIT6Gt)				     |ML (dives into maths) ||
