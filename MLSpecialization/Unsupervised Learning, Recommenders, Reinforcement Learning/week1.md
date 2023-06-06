@@ -32,3 +32,40 @@ One way to fix this, is to use multiple centroids (k) selected at random, and co
 - Recommended method: what's important to you? How many clusters do you need for your purpose?
 
 ![](./assets/recommended.png)
+
+# Anomaly detection
+
+The most common technique: **Density estimation**, determines high and low probability values in the training sets. It most commonlly used in fraud detection, detecting fake social media accounts, etc..., anomalous manufaturing products, and monitoring computers in data centres 
+
+We need the normal distribution to apply anomaly detection
+
+![](./assets/normal.png)
+
+The density estimation assumes that the features are statistically independent, but it still does great for dependent features
+
+![](./assets/density_estimation.png)
+
+### Algoritm
+
+![](./assets/anomaly_algo.png)
+
+Example:
+
+![](./assets/example_anomaly.png)
+
+Possible evaluation metric is F1 score, precision and recall. And finally, it is important to use cross validation set to choose parameter epsilon
+
+## Anomaly detection vs Supervised learning
+
+![](./assets/comparison.png)
+
+![](./assets/comparison2.png)
+
+## Choosing features
+
+- Make sure the features are more or less guassian, or transform it to gaussian 
+  - e.g., log(x),
+  - log(x + c) where c is a constant, 
+  - √x
+  - REMEMBER TO APPLY THE SAME TRANFORMATION TO THE DEV AND TEST SETS AS WELL
+- 
