@@ -68,4 +68,3 @@ Possible evaluation metric is F1 score, precision and recall. And finally, it is
   - log(x + c) where c is a constant, 
   - √x
   - REMEMBER TO APPLY THE SAME TRANFORMATION TO THE DEV AND TEST SETS AS WELL
-- 
