@@ -20,4 +20,10 @@ The goal is to create a function (**a policy**) whose goal is to take the state 
 
 ![](./assets/mdp.png)
 
-State-action value function
+State-action value function; return if you start in state s, take action a (one) and then behave optimally after that (that will get us the maximum return/reward)
+
+![](./assets/state-action-function.png)
+
+We can calculate the state-action value function using the Bellman equation
+
+![](./assets/bellman.png)
