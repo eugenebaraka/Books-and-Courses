@@ -15,6 +15,9 @@
 |[Speech and Language Processing](./_resources/ed3book.pdf)| Jurafsky and Martin| NLP ||
 |[Webscraping with Python](./_resources/Web%20Scraping%20with%20Python%2C%202nd%20Edition.pdf)             						     |                |		||
 |[Advanced R](https://adv-r.hadley.nz/index.html) | | R ||
+|[Mastering Shiny](https://mastering-shiny.org/) | | R ||
+
+
 
 
 
